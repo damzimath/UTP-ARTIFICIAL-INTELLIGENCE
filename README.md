@@ -1,12 +1,15 @@
-# UTP Artificial Intelligence (TEB2023 / TFB2073 / TGB2013)
+# UTP Artificial Intelligence (TEB2023)
 
-Repository containing lab exercises, experiments, datasets, and assignments for Artificial Intelligence at Universiti Teknologi PETRONAS.
+- **Name:** Muhammad Adam bin Mohd Kamal @ Afdzal
+- **Student ID:** 24006270
+
+Repository containing lab exercises, experiments, datasets, and assignments.
 
 ## Repository Structure
 
-* [All Experiments](all_experiments) — Python lab scripts and source code
-* [All Datasets](all_datasets) — CSV and dataset files used across labs
-* [Results & Submissions](results) — Lab outputs, plots, and assignment deliverables
+- [All Experiments](all_experiments) — Python lab scripts and source code
+- [All Datasets](all_datasets) — CSV and dataset files used across labs
+- [Results & Submissions](results) — Lab outputs, plots, and assignment deliverables
 
 ---
 
@@ -27,7 +30,7 @@ Repository containing lab exercises, experiments, datasets, and assignments for 
 
 ## Assignments (`results/`)
 
-* [Assignment 2 (Week 5)](results/Assignment%202%20Week%205)
-* [Assignment: Reasoning, Semantic & NLP](results/Assignment_Reasoning_Semantic_NLP)
-* [Lab 06 Assignment](results/Lab06_Assignment)
-* [GA Assignment (Genetic Algorithm Regression)](results/GA%20Assignment)
+- [Assignment 2 (Week 5)](results/Assignment%202%20Week%205)
+- [Assignment: Reasoning, Semantic & NLP](results/Assignment_Reasoning_Semantic_NLP)
+- [Lab 06 Assignment](results/Lab06_Assignment)
+- [GA Assignment (Genetic Algorithm Regression)](results/GA%20Assignment)
